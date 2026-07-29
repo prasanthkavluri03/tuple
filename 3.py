@@ -1,7 +1,7 @@
 # create a empty tuple
 
-t1=()
-print(t1)  #()
+tuple=()
+print(tuple)  #()
 
-s=type(t1)
+s=type(tuple)
 print(s) #<class 'tuple'>
