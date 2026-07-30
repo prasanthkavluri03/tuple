@@ -1,14 +1,14 @@
 # create a tuple with only one element
 
-t1=(100)
-print(t1) #100
+tuple=(100)
+print(tuple) #100
 
-s1=type(t1)
+s1=type(tuple)
 print(s1) #<class 'int'>
 
 
-t2=(100,)
-print(t2) #(100,)
+tuple2=(100,)
+print(tuple2) #(100,)
 
-s2=type(t2)
+s2=type(tuple2)
 print(s2) #<class 'tuple'>
