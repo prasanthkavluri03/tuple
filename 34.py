@@ -1,5 +1,5 @@
 #  Create a tuple using the  tuple()  constructor.
 
-t1=()
+tuple1=()
 
-print(type(t1))  #<class 'tuple'>
+print(type(tuple1))  #<class 'tuple'>
