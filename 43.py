@@ -1,8 +1,8 @@
 #  Find the second smallest number in a tuple. 
 
-t1=(1,3,5,7,2,4,6)
+tuple1=(1,3,5,7,2,4,6)
 
-s1=tuple(sorted(t1))
-s2=s1[1]
-print(s2)  #2
-print(type(s1)) #<class 'tuple'>
+sum1=tuple(sorted(tuple1))
+sum2=sum1[1]
+print(sum2)  #2
+print(type(sum1)) #<class 'tuple'>
