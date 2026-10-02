@@ -2,14 +2,14 @@
 
 
 # maximum
-t1=(1,2,3,4,5,6,7,55,8,9,10)
+tuple1=(1,2,3,4,5,6,7,55,8,9,10)
 
-s1=max(t1)
-print(s1)  #55
+sum1=max(tuple1)
+print(sum1)  #55
 
 
 # minimum
-t1=(1,2,3,4,5,6,7,8,9,0)
+tuple2=(1,2,3,4,5,6,7,8,9,0)
 
-s1=min(t1)
-print(s1)  #0
+sum2=min(tuple2)
+print(sum2)  #0
