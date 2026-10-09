@@ -1,8 +1,8 @@
 # create a tuple with 5 student names
 
-tuple1=("ravi","sai","satya","ram","srinu")
+tup1=("ravi","sai","satya","ram","srinu")
 
-print(tuple1) #('ravi', 'sai', 'satya', 'ram', 'srinu')
+print(tup1) #('ravi', 'sai', 'satya', 'ram', 'srinu')
 
-s1=type(tuple1)
-print(s1) #<class 'tuple'>
+sum1=type(tup1)
+print(sum1) #<class 'tuple'>
